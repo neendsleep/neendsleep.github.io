@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/evigt/neend-web-app/static/css/main.804a54c5.chunk.css",
-    "main.js": "/evigt/neend-web-app/static/js/main.2cdaa805.chunk.js",
-    "main.js.map": "/evigt/neend-web-app/static/js/main.2cdaa805.chunk.js.map",
+    "main.js": "/evigt/neend-web-app/static/js/main.708a4ebd.chunk.js",
+    "main.js.map": "/evigt/neend-web-app/static/js/main.708a4ebd.chunk.js.map",
     "runtime-main.js": "/evigt/neend-web-app/static/js/runtime-main.c8252607.js",
     "runtime-main.js.map": "/evigt/neend-web-app/static/js/runtime-main.c8252607.js.map",
     "static/css/2.4be38407.chunk.css": "/evigt/neend-web-app/static/css/2.4be38407.chunk.css",
@@ -39,6 +39,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.c8554a5b.chunk.js",
     "static/css/main.804a54c5.chunk.css",
-    "static/js/main.2cdaa805.chunk.js"
+    "static/js/main.708a4ebd.chunk.js"
   ]
 }
