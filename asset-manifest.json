@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/evigt/neend-web-app/static/css/main.0a65b726.chunk.css",
-    "main.js": "/evigt/neend-web-app/static/js/main.7ea08912.chunk.js",
-    "main.js.map": "/evigt/neend-web-app/static/js/main.7ea08912.chunk.js.map",
+    "main.css": "/evigt/neend-web-app/static/css/main.804a54c5.chunk.css",
+    "main.js": "/evigt/neend-web-app/static/js/main.2cdaa805.chunk.js",
+    "main.js.map": "/evigt/neend-web-app/static/js/main.2cdaa805.chunk.js.map",
     "runtime-main.js": "/evigt/neend-web-app/static/js/runtime-main.c8252607.js",
     "runtime-main.js.map": "/evigt/neend-web-app/static/js/runtime-main.c8252607.js.map",
     "static/css/2.4be38407.chunk.css": "/evigt/neend-web-app/static/css/2.4be38407.chunk.css",
-    "static/js/2.86d569ea.chunk.js": "/evigt/neend-web-app/static/js/2.86d569ea.chunk.js",
-    "static/js/2.86d569ea.chunk.js.map": "/evigt/neend-web-app/static/js/2.86d569ea.chunk.js.map",
+    "static/js/2.c8554a5b.chunk.js": "/evigt/neend-web-app/static/js/2.c8554a5b.chunk.js",
+    "static/js/2.c8554a5b.chunk.js.map": "/evigt/neend-web-app/static/js/2.c8554a5b.chunk.js.map",
     "index.html": "/evigt/neend-web-app/index.html",
     "static/css/2.4be38407.chunk.css.map": "/evigt/neend-web-app/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.0a65b726.chunk.css.map": "/evigt/neend-web-app/static/css/main.0a65b726.chunk.css.map",
-    "static/js/2.86d569ea.chunk.js.LICENSE.txt": "/evigt/neend-web-app/static/js/2.86d569ea.chunk.js.LICENSE.txt",
+    "static/css/main.804a54c5.chunk.css.map": "/evigt/neend-web-app/static/css/main.804a54c5.chunk.css.map",
+    "static/js/2.c8554a5b.chunk.js.LICENSE.txt": "/evigt/neend-web-app/static/js/2.c8554a5b.chunk.js.LICENSE.txt",
     "static/media/Neend Logo.4b792aa0.svg": "/evigt/neend-web-app/static/media/Neend Logo.4b792aa0.svg",
     "static/media/Photo 1.dd1411f8.png": "/evigt/neend-web-app/static/media/Photo 1.dd1411f8.png",
     "static/media/Photo 2.1a1d59bc.png": "/evigt/neend-web-app/static/media/Photo 2.1a1d59bc.png",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.c8252607.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.86d569ea.chunk.js",
-    "static/css/main.0a65b726.chunk.css",
-    "static/js/main.7ea08912.chunk.js"
+    "static/js/2.c8554a5b.chunk.js",
+    "static/css/main.804a54c5.chunk.css",
+    "static/js/main.2cdaa805.chunk.js"
   ]
 }
