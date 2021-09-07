@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab16d126.chunk.css",
-    "main.js": "/static/js/main.8bec5550.chunk.js",
-    "main.js.map": "/static/js/main.8bec5550.chunk.js.map",
+    "main.css": "/static/css/main.0b5ea8f4.chunk.css",
+    "main.js": "/static/js/main.964d26f8.chunk.js",
+    "main.js.map": "/static/js/main.964d26f8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.426e0801.js",
     "runtime-main.js.map": "/static/js/runtime-main.426e0801.js.map",
     "static/css/2.9082872e.chunk.css": "/static/css/2.9082872e.chunk.css",
-    "static/js/2.1fa47c5d.chunk.js": "/static/js/2.1fa47c5d.chunk.js",
-    "static/js/2.1fa47c5d.chunk.js.map": "/static/js/2.1fa47c5d.chunk.js.map",
+    "static/js/2.1f007b29.chunk.js": "/static/js/2.1f007b29.chunk.js",
+    "static/js/2.1f007b29.chunk.js.map": "/static/js/2.1f007b29.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.9082872e.chunk.css.map": "/static/css/2.9082872e.chunk.css.map",
-    "static/css/main.ab16d126.chunk.css.map": "/static/css/main.ab16d126.chunk.css.map",
-    "static/js/2.1fa47c5d.chunk.js.LICENSE.txt": "/static/js/2.1fa47c5d.chunk.js.LICENSE.txt",
+    "static/css/main.0b5ea8f4.chunk.css.map": "/static/css/main.0b5ea8f4.chunk.css.map",
+    "static/js/2.1f007b29.chunk.js.LICENSE.txt": "/static/js/2.1f007b29.chunk.js.LICENSE.txt",
     "static/media/Neend Logo.4b792aa0.svg": "/static/media/Neend Logo.4b792aa0.svg",
     "static/media/appStore.ec6b1120.svg": "/static/media/appStore.ec6b1120.svg",
     "static/media/ast.de8bee2f.png": "/static/media/ast.de8bee2f.png",
@@ -36,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.426e0801.js",
     "static/css/2.9082872e.chunk.css",
-    "static/js/2.1fa47c5d.chunk.js",
-    "static/css/main.ab16d126.chunk.css",
-    "static/js/main.8bec5550.chunk.js"
+    "static/js/2.1f007b29.chunk.js",
+    "static/css/main.0b5ea8f4.chunk.css",
+    "static/js/main.964d26f8.chunk.js"
   ]
 }
