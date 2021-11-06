@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee0b2b94.chunk.css",
-    "main.js": "/static/js/main.dfe6639f.chunk.js",
-    "main.js.map": "/static/js/main.dfe6639f.chunk.js.map",
+    "main.css": "/static/css/main.d8c24762.chunk.css",
+    "main.js": "/static/js/main.c4d94123.chunk.js",
+    "main.js.map": "/static/js/main.c4d94123.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.426e0801.js",
     "runtime-main.js.map": "/static/js/runtime-main.426e0801.js.map",
     "static/css/2.9082872e.chunk.css": "/static/css/2.9082872e.chunk.css",
-    "static/js/2.60f138ff.chunk.js": "/static/js/2.60f138ff.chunk.js",
-    "static/js/2.60f138ff.chunk.js.map": "/static/js/2.60f138ff.chunk.js.map",
+    "static/js/2.64476c5c.chunk.js": "/static/js/2.64476c5c.chunk.js",
+    "static/js/2.64476c5c.chunk.js.map": "/static/js/2.64476c5c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.9082872e.chunk.css.map": "/static/css/2.9082872e.chunk.css.map",
-    "static/css/main.ee0b2b94.chunk.css.map": "/static/css/main.ee0b2b94.chunk.css.map",
-    "static/js/2.60f138ff.chunk.js.LICENSE.txt": "/static/js/2.60f138ff.chunk.js.LICENSE.txt",
+    "static/css/main.d8c24762.chunk.css.map": "/static/css/main.d8c24762.chunk.css.map",
+    "static/js/2.64476c5c.chunk.js.LICENSE.txt": "/static/js/2.64476c5c.chunk.js.LICENSE.txt",
     "static/media/MusicPlayer.css": "/static/media/lineargradient.49e52498.png",
     "static/media/Neend Logo.4b792aa0.svg": "/static/media/Neend Logo.4b792aa0.svg",
     "static/media/Quotes.668c6151.svg": "/static/media/Quotes.668c6151.svg",
@@ -39,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.426e0801.js",
     "static/css/2.9082872e.chunk.css",
-    "static/js/2.60f138ff.chunk.js",
-    "static/css/main.ee0b2b94.chunk.css",
-    "static/js/main.dfe6639f.chunk.js"
+    "static/js/2.64476c5c.chunk.js",
+    "static/css/main.d8c24762.chunk.css",
+    "static/js/main.c4d94123.chunk.js"
   ]
 }
