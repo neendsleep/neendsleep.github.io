@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.8b9e632e.chunk.css",
-    "main.js": "/static/js/main.12b19f62.chunk.js",
-    "main.js.map": "/static/js/main.12b19f62.chunk.js.map",
+    "main.css": "/static/css/main.e8eabdfe.chunk.css",
+    "main.js": "/static/js/main.ebd8b2fc.chunk.js",
+    "main.js.map": "/static/js/main.ebd8b2fc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.426e0801.js",
     "runtime-main.js.map": "/static/js/runtime-main.426e0801.js.map",
     "static/css/2.9082872e.chunk.css": "/static/css/2.9082872e.chunk.css",
@@ -10,9 +10,10 @@
     "static/js/2.51b2facd.chunk.js.map": "/static/js/2.51b2facd.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.9082872e.chunk.css.map": "/static/css/2.9082872e.chunk.css.map",
-    "static/css/main.8b9e632e.chunk.css.map": "/static/css/main.8b9e632e.chunk.css.map",
+    "static/css/main.e8eabdfe.chunk.css.map": "/static/css/main.e8eabdfe.chunk.css.map",
     "static/js/2.51b2facd.chunk.js.LICENSE.txt": "/static/js/2.51b2facd.chunk.js.LICENSE.txt",
     "static/media/MusicPlayer.css": "/static/media/lineargradient.49e52498.png",
+    "static/media/Neend.d0631c07.png": "/static/media/Neend.d0631c07.png",
     "static/media/Neendnewlogo.e8d069aa.svg": "/static/media/Neendnewlogo.e8d069aa.svg",
     "static/media/Quotes.623708e2.svg": "/static/media/Quotes.623708e2.svg",
     "static/media/appStore.93080e77.svg": "/static/media/appStore.93080e77.svg",
@@ -24,6 +25,7 @@
     "static/media/facebook.03591620.svg": "/static/media/facebook.03591620.svg",
     "static/media/gaana.683a0b34.svg": "/static/media/gaana.683a0b34.svg",
     "static/media/google.78254551.png": "/static/media/google.78254551.png",
+    "static/media/hill-of-coorg.fba260fd.png": "/static/media/hill-of-coorg.fba260fd.png",
     "static/media/instagram.23dc539a.svg": "/static/media/instagram.23dc539a.svg",
     "static/media/Review.css": "/static/media/lines.fecf4734.png",
     "static/media/linkedin.10873d03.svg": "/static/media/linkedin.10873d03.svg",
@@ -34,13 +36,14 @@
     "static/media/sir.d43a27ff.png": "/static/media/sir.d43a27ff.png",
     "static/media/smiling.8b99a5b1.png": "/static/media/smiling.8b99a5b1.png",
     "static/media/spotify.1cb9a70f.svg": "/static/media/spotify.1cb9a70f.svg",
+    "static/media/the-letters.635e6617.png": "/static/media/the-letters.635e6617.png",
     "static/media/twitter.a4c2c02a.svg": "/static/media/twitter.a4c2c02a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.426e0801.js",
     "static/css/2.9082872e.chunk.css",
     "static/js/2.51b2facd.chunk.js",
-    "static/css/main.8b9e632e.chunk.css",
-    "static/js/main.12b19f62.chunk.js"
+    "static/css/main.e8eabdfe.chunk.css",
+    "static/js/main.ebd8b2fc.chunk.js"
   ]
 }
