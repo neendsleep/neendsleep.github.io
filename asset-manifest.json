@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6fe21960.chunk.css",
-    "main.js": "/static/js/main.a991386c.chunk.js",
-    "main.js.map": "/static/js/main.a991386c.chunk.js.map",
+    "main.js": "/static/js/main.6656ceea.chunk.js",
+    "main.js.map": "/static/js/main.6656ceea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.426e0801.js",
     "runtime-main.js.map": "/static/js/runtime-main.426e0801.js.map",
     "static/css/2.9082872e.chunk.css": "/static/css/2.9082872e.chunk.css",
@@ -27,6 +27,7 @@
     "static/media/menuIcon.35cc3fa7.svg": "/static/media/menuIcon.35cc3fa7.svg",
     "static/media/mobile.608e5b92.svg": "/static/media/mobile.608e5b92.svg",
     "static/media/mobileBg.f48a931e.svg": "/static/media/mobileBg.f48a931e.svg",
+    "static/media/moonCloud.6cbab53d.svg": "/static/media/moonCloud.6cbab53d.svg",
     "static/media/neendLogo.d3d8214e.svg": "/static/media/neendLogo.d3d8214e.svg",
     "static/media/newBackground.d839353f.svg": "/static/media/newBackground.d839353f.svg",
     "static/media/playStoreIcon.f478e3da.svg": "/static/media/playStoreIcon.f478e3da.svg",
@@ -40,6 +41,6 @@
     "static/css/2.9082872e.chunk.css",
     "static/js/2.89b2fb58.chunk.js",
     "static/css/main.6fe21960.chunk.css",
-    "static/js/main.a991386c.chunk.js"
+    "static/js/main.6656ceea.chunk.js"
   ]
 }
