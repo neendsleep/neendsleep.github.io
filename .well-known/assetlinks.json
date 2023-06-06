@@ -3,12 +3,23 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
+      "package_name": "com.neend.kids",
+      "sha256_cert_fingerprints": [
+        "66:AF:5D:79:1B:DD:E6:CF:1E:DE:2A:FD:AB:76:D2:2E:EB:E3:E7:35:18:F9:2B:E4:AC:7F:E5:E4:A4:40:C4:95",
+        "C9:59:E3:03:36:B1:6F:71:65:12:92:B5:72:CB:11:39:2D:97:32:F6:1A:31:B1:CB:72:DB:4D:43:B7:40:A8:DB",
+        "66:C8:3B:06:ED:A9:00:D2:C3:BE:45:8A:E4:51:B3:B2:48:FA:98:E6:EC:F9:D2:05:5F:F6:2D:27:08:FF:A8:C3"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
       "package_name": "com.neend",
       "sha256_cert_fingerprints": [
         "C8:6B:95:7E:4B:49:17:39:8D:49:F7:3A:2F:1B:75:62:BA:9F:86:25:F0:EF:F7:8B:D0:4A:52:6A:A2:E6:74:0E",
-        "52:17:99:C4:FB:64:80:DE:26:D8:6E:73:BA:AA:9D:64:9E:2E:A3:18:D4:99:E5:08:0D:EA:E8:A5:8F:5E:92:AB".
-        "66:AF:5D:79:1B:DD:E6:CF:1E:DE:2A:FD:AB:76:D2:2E:EB:E3:E7:35:18:F9:2B:E4:AC:7F:E5:E4:A4:40:C4:9",
-        "66:C8:3B:06:ED:A9:00:D2:C3:BE:45:8A:E4:51:B3:B2:48:FA:98:E6:EC:F9:D2:05:5F:F6:2D:27:08:FF:A8:C3"
+        "52:17:99:C4:FB:64:80:DE:26:D8:6E:73:BA:AA:9D:64:9E:2E:A3:18:D4:99:E5:08:0D:EA:E8:A5:8F:5E:92:AB",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
       ]
     }
   }
