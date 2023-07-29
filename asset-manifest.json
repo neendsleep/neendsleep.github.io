@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5334c445.chunk.css",
-    "main.js": "/static/js/main.6327e7ca.chunk.js",
-    "main.js.map": "/static/js/main.6327e7ca.chunk.js.map",
+    "main.js": "/static/js/main.1a16db97.chunk.js",
+    "main.js.map": "/static/js/main.1a16db97.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e828bf9c.js",
     "runtime-main.js.map": "/static/js/runtime-main.e828bf9c.js.map",
     "static/css/2.f26e749f.chunk.css": "/static/css/2.f26e749f.chunk.css",
@@ -35,7 +35,6 @@
     "static/media/mobileHiringSection.fd71b7c4.svg": "/static/media/mobileHiringSection.fd71b7c4.svg",
     "static/media/neendLogo.d3d8214e.svg": "/static/media/neendLogo.d3d8214e.svg",
     "static/media/newBackground.d839353f.svg": "/static/media/newBackground.d839353f.svg",
-    "static/media/playStoreIcon.f478e3da.svg": "/static/media/playStoreIcon.f478e3da.svg",
     "static/media/promoter_a.864a4e42.svg": "/static/media/promoter_a.864a4e42.svg",
     "static/media/promoter_b.993c3a0e.svg": "/static/media/promoter_b.993c3a0e.svg",
     "static/media/promoter_c.c7903513.svg": "/static/media/promoter_c.c7903513.svg",
@@ -52,6 +51,6 @@
     "static/css/2.f26e749f.chunk.css",
     "static/js/2.ae4581fd.chunk.js",
     "static/css/main.5334c445.chunk.css",
-    "static/js/main.6327e7ca.chunk.js"
+    "static/js/main.1a16db97.chunk.js"
   ]
 }
