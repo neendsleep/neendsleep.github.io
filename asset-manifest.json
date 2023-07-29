@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5334c445.chunk.css",
-    "main.js": "/static/js/main.7ad48783.chunk.js",
-    "main.js.map": "/static/js/main.7ad48783.chunk.js.map",
+    "main.js": "/static/js/main.62fc42e1.chunk.js",
+    "main.js.map": "/static/js/main.62fc42e1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e828bf9c.js",
     "runtime-main.js.map": "/static/js/runtime-main.e828bf9c.js.map",
     "static/css/2.f26e749f.chunk.css": "/static/css/2.f26e749f.chunk.css",
@@ -16,7 +16,6 @@
     "static/media/2.9feae7f2.svg": "/static/media/2.9feae7f2.svg",
     "static/media/3.6e29c6e7.svg": "/static/media/3.6e29c6e7.svg",
     "static/media/Neend.d0631c07.png": "/static/media/Neend.d0631c07.png",
-    "static/media/app-ss.08812cf6.png": "/static/media/app-ss.08812cf6.png",
     "static/media/article_a.3adfb7a1.svg": "/static/media/article_a.3adfb7a1.svg",
     "static/media/article_b.9088fd28.svg": "/static/media/article_b.9088fd28.svg",
     "static/media/article_c.9cf59ea7.svg": "/static/media/article_c.9cf59ea7.svg",
@@ -31,11 +30,9 @@
     "static/media/instagram.f0dbc3ce.svg": "/static/media/instagram.f0dbc3ce.svg",
     "static/media/lines.aada0a3f.svg": "/static/media/lines.aada0a3f.svg",
     "static/media/linkedin.b9ab7bf8.svg": "/static/media/linkedin.b9ab7bf8.svg",
-    "static/media/meditation.0f4a200d.svg": "/static/media/meditation.0f4a200d.svg",
     "static/media/menuIcon.35cc3fa7.svg": "/static/media/menuIcon.35cc3fa7.svg",
     "static/media/mobileBg.f48a931e.svg": "/static/media/mobileBg.f48a931e.svg",
     "static/media/mobileHiringSection.fd71b7c4.svg": "/static/media/mobileHiringSection.fd71b7c4.svg",
-    "static/media/music.f02a420a.svg": "/static/media/music.f02a420a.svg",
     "static/media/neendLogo.d3d8214e.svg": "/static/media/neendLogo.d3d8214e.svg",
     "static/media/newBackground.d839353f.svg": "/static/media/newBackground.d839353f.svg",
     "static/media/playStoreIcon.f478e3da.svg": "/static/media/playStoreIcon.f478e3da.svg",
@@ -47,8 +44,6 @@
     "static/media/promoter_f.bc74fa66.svg": "/static/media/promoter_f.bc74fa66.svg",
     "static/media/purpleLine.ff4bfd79.svg": "/static/media/purpleLine.ff4bfd79.svg",
     "static/media/resBg.8a1391a1.svg": "/static/media/resBg.8a1391a1.svg",
-    "static/media/shop.534def9b.svg": "/static/media/shop.534def9b.svg",
-    "static/media/stories.bba88eb0.svg": "/static/media/stories.bba88eb0.svg",
     "static/media/twitter.cfe873f1.svg": "/static/media/twitter.cfe873f1.svg",
     "static/media/youtube.5e84609c.svg": "/static/media/youtube.5e84609c.svg"
   },
@@ -57,6 +52,6 @@
     "static/css/2.f26e749f.chunk.css",
     "static/js/2.ae4581fd.chunk.js",
     "static/css/main.5334c445.chunk.css",
-    "static/js/main.7ad48783.chunk.js"
+    "static/js/main.62fc42e1.chunk.js"
   ]
 }
